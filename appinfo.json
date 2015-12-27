@@ -20,8 +20,8 @@
                 "type": "bitmap"
             },
             {
-                "file": "images/tile_splash.png",
-                "name": "IMAGE_TILE_SPLASH",
+                "file": "images/abcdefghi.png",
+                "name": "ABCDEFGHI",
                 "type": "bitmap"
             },
             {
