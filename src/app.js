@@ -118,8 +118,4 @@ var tertiaryText = function(titleText, callback) {
   }
 };
 
-tertiaryText("Add New Task", function(text) {
-  console.log(text);
-});
-
 module.exports = tertiaryText;
